@@ -3,3 +3,15 @@ C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Applicati
 C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.AssemblyInfoInputs.cache
 C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.AssemblyInfo.cs
 C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.csproj.CoreCompileInputs.cache
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\bin\Debug\net6.0\EConsult.Application.deps.json
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\bin\Debug\net6.0\EConsult.Application.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\bin\Debug\net6.0\EConsult.Application.pdb
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\bin\Debug\net6.0\EConsult.Domain.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\bin\Debug\net6.0\EConsult.Infrastructure.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\bin\Debug\net6.0\EConsult.Domain.pdb
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\bin\Debug\net6.0\EConsult.Infrastructure.pdb
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.csproj.CopyComplete
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\refint\EConsult.Application.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.pdb
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\ref\EConsult.Application.dll

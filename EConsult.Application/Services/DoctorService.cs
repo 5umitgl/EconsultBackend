@@ -2,7 +2,7 @@
 using Econsult.Domain.Entities;
 using Econsult.Infrastructure.Implementations;
 using Econsult.Infrastructure.Interfaces;
-
+using EConsult.Application.Interfaces;
 using EConsult.Domain.Entities;
 
 using System;
@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace EConsult.Application.Services
 {
-    public class DoctorService
+    public class DoctorService:IDoctorService
     {
        
             private readonly IDoctorRepository _doctorRepository;

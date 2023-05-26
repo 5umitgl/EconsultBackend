@@ -1,6 +1,7 @@
 ﻿
 using Econsult.Domain.Entities;
 using Econsult.Infrastructure.Interfaces;
+using EConsult.Application.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace EConsult.Application.Services
 {
-    public class AddressService
+    public class AddressService:IAddressService
     {
        
             private readonly IAddressRepository _addressRepository;

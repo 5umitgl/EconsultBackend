@@ -62,12 +62,12 @@ namespace Econsult.Infrastructure.Implementations
         }
         public Doctor GetDoctorByUserId(int userId)
             {
-                return _dbContext.Doctor.FirstOrDefault(d => d.UserId == userId);
+                return _dbContext.Doctor.FirstOrDefault(d => d.DoctorId == userId);
             }
 
             public Patient GetPatientByUserId(int userId)
             {
-                return _dbContext.Patient.FirstOrDefault(p => p.UserId == userId);
+                return _dbContext.Patient.FirstOrDefault(p => p.PatientId == userId);
             }
         public void DeleteDoctor(Doctor doctor)
         {

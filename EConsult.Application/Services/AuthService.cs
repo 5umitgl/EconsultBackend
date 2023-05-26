@@ -1,7 +1,7 @@
 ﻿using Econsult.Domain.Entities;
 using Econsult.Infrastructure.Implementations;
 using Econsult.Infrastructure.Interfaces;
-
+using EConsult.Application.Interfaces;
 using EConsult.Domain.Entities;
 
 using System;
@@ -13,7 +13,7 @@ using static Econsult.Domain.Entities.SignIn;
 
 namespace EConsult.Application.Services
 {
-    public class AuthService
+    public class AuthService:IAuthService
     {
        
             private readonly IAuthRepository _authRepository;

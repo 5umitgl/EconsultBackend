@@ -1,6 +1,6 @@
 ﻿using Econsult.Domain.Entities;
 using Econsult.Infrastructure.Implementations;
-
+using EConsult.Application.Interfaces;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace EConsult.Application.Services
 {
-    public class PatientService
+    public class PatientService:IPatientService
     {
 
         private readonly IPatientRepository _patientRepository;

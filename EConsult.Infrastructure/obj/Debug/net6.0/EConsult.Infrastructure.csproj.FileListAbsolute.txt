@@ -3,3 +3,13 @@ C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastru
 C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\EConsult.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\EConsult.Infrastructure.AssemblyInfo.cs
 C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\EConsult.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\bin\Debug\net6.0\EConsult.Infrastructure.deps.json
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\bin\Debug\net6.0\EConsult.Infrastructure.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\bin\Debug\net6.0\EConsult.Infrastructure.pdb
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\bin\Debug\net6.0\EConsult.Domain.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\bin\Debug\net6.0\EConsult.Domain.pdb
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\EConsult.Infrastructure.csproj.CopyComplete
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\EConsult.Infrastructure.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\refint\EConsult.Infrastructure.dll
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\EConsult.Infrastructure.pdb
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Infrastructure\obj\Debug\net6.0\ref\EConsult.Infrastructure.dll
