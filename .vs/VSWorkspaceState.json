@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EconsultBackened",
+    "\\EconsultBackened\\Controllers",
+    "\\EconsultBackened\\DataAccessLayer",
+    "\\EconsultBackened\\Model"
+  ],
+  "SelectedNode": "\\EconsultBackened\\DataAccessLayer\\AuthDL.cs",
+  "PreviewInSolutionExplorer": false
+}

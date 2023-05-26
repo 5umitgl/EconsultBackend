@@ -1,0 +1,5 @@
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.csproj.AssemblyReference.cache
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.AssemblyInfoInputs.cache
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.AssemblyInfo.cs
+C:\Users\sumit.kumar26\Desktop\OfficeProject\EconsultBackened\EConsult.Application\obj\Debug\net6.0\EConsult.Application.csproj.CoreCompileInputs.cache
